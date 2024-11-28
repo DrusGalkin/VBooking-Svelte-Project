@@ -1,0 +1,17 @@
+:root{
+    --color : #0162CD;
+    --colorHover: #001788;
+    --colorBL : white;
+    --FooterColor : #2C0B5C;
+    --SubmitColor : #6609ED;
+}
+
+html{
+    margin: 0 auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik';
+}
